@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](dig1.gif)
+
+![](dig2.gif)
+
